@@ -16,7 +16,6 @@ Click the link below to open the Morphophen Networks notebook in **Google Colab*
 - **[MorphoPhen Spatial Omics](notebooks/MorphoPhen_SpatialOmics.ipynb)**  
   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geogav/morphophen_networks_spatial/blob/main/notebooks/MorphoPhen_SpatialOmics.ipynb)
 
-
 ## 📂 Folder Structure
 - `notebooks/` - Jupyter notebooks for hands-on learning.
 - `datasets/` - Example datasets for analysis.
