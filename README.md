@@ -1,2 +1,30 @@
 # morphophen_networks_spatial
 morphophen_lectures_2025
+
+# Network Biology & Spatial Omics Course
+This repository contains materials for the **Network Biology, Single-Cell RNA-seq, and Spatial Omics** course.
+
+## 📘 Course Notebooks
+Click any notebook to open it in **Google Colab**:
+
+- **[Network Analysis](notebooks/01_Network_Analysis.ipynb)**  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geogav/morphophen_networks_spatial/blob/main/notebooks/01_Network_Analysis.ipynb)
+
+- **[Single-Cell RNA-seq](notebooks/02_Single_Cell_Analysis.ipynb)**  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geogav/morphophen_networks_spatial/blob/main/notebooks/02_Single_Cell_Analysis.ipynb)
+
+- **[Spatial Omics](notebooks/03_Spatial_Omics.ipynb)**  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geogav/morphophen_networks_spatial/blob/main/notebooks/03_Spatial_Omics.ipynb)
+
+## 📂 Folder Structure
+- `notebooks/` - Jupyter notebooks for hands-on learning.
+- `datasets/` - Example datasets for analysis.
+- `slides/` - Lecture slides in PDF/PPTX format.
+- `scripts/` - Additional scripts for processing.
+- `results/` - Results and outputs from notebooks.
+- `docs/` - Documentation and resources.
+
+## 📜 Dependencies
+To install required Python libraries, run:
+```bash
+pip install #package
