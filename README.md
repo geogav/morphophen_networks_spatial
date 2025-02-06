@@ -5,10 +5,11 @@ morphophen_lectures_2025
 This repository contains materials for the **Network Biology, Single-Cell RNA-seq, and Spatial Omics** course.
 
 ## 📘 Course Notebooks
-Click any notebook to open it in **Google Colab**:
+Click the link below to open the Morphophen Networks notebook in **Google Colab**:
 
-- **[Network Analysis](notebooks/01_Network_Analysis.ipynb)**  
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geogav/morphophen_networks_spatial/blob/main/notebooks/01_Network_Analysis.ipynb)
+- **[MorphoPhen Networks](notebooks/MorphoPhen_Networks.ipynb)**  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geogav/morphophen_networks_spatial/blob/main/notebooks/MorphoPhen_Networks.ipynb)
+
 
 - **[Single-Cell RNA-seq](notebooks/02_Single_Cell_Analysis.ipynb)**  
   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geogav/morphophen_networks_spatial/blob/main/notebooks/02_Single_Cell_Analysis.ipynb)
