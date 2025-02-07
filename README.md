@@ -8,7 +8,7 @@ This repository contains materials for the **Network Biology, Single-Cell RNA-se
 Click the link below to open the Morphophen Networks notebook in **Google Colab**:
 
 - **[MorphoPhen Networks Module 1](notebooks/MorphoPhen_Networks_Module1.ipynb)**
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geogav/morphophen_networks_spatial/blob/main/notebooks/MorphoPhen_Networks_Module1.ipynb)
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/github/geogav/morphophen_networks_spatial/blob/main/notebooks/MorphoPhen_Networks_Module1.ipynb)
 
 
 - **[MorphoPhen Single-Cell](notebooks/MorphoPhen_SingleCell.ipynb)**  
